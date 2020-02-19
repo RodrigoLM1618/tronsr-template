@@ -1,1 +1,1 @@
-A short introduction about your team
+We develop applications based on blockchain technology, identity and digital assets for the contracting of insurance, pension plans and financing easily, safely and at low cost. Our development is carried out through platforms in the USA, Mexico and Spain. which are responsible for code development, advertising and sales.
