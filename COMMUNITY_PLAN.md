@@ -1,7 +1,5 @@
-Smart Phi is a project created by the Mexican company Phi Tu Asesor en Soluciones in collaboration with the ECAFE development group in the USA.
-The main objective is to explore and develop new technological tools in order to evolve the insurance and pension industry. Through the implementation of new technologies such as artificial intelligence, sovereign identity and blockchain. To help reduce transaction time and cost.
-We are developing algorithms for calculating expenses, reserves and their impact on the cost of products in order to estimate an appropriate price for each user.
-Due to the high development of the Tron network, we decided to implement the applications in this network. Being part of the partners representing the Tron network is the way we show our confidence in this project. With the support of the community we hope to continue developing this project.
-Website: https://phituasesor.com/smart-2
-Twitter: https://twitter.com/phituasesor
-Instagram: https://www.instagram.com/phituasesor/?hl=en-la
+
+Because we believe in a fair, equitable and responsible participation with society, Smart Phi proposes to establish a voter reward rate equivalent to 90%, the other 10% will go to a social integration program consisting of donations to institutions that help fight violence and discrimination against women and children in vulnerable situations.
+Once the program has been launched, all of our voters will be presented .001 SmartPhi for each vote they make to PHI-ECAFE redeemable immediately in proportion 1 Smartphi = 1 Tron. The photo will be taken on 05/01/2020 and the delivery will be made the first 10 days of the month, this program will be made continuously every month during the first year.
+For the exchange of SmartPhi currencies by Tron, you only have to send them to the address described below and the change will take place within 24 hours.
+ TMXiQ2W35fDochXM6dDUrF3ZDnWR2uwcRW address
