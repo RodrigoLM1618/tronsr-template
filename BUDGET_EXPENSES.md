@@ -1,1 +1,1 @@
-Supply a clear budget line.
+For the first half of 2020, an initial investment of $ 100,000 is planned for this project alone, most of the resources will be invested directly in research and development of intelligent algorithms to make data collection, interpretation and processing more efficient. For the second semester, 125 thousand dollars will be released, which will be allocated according to the degree of development of the project. The project is expected to be completed in the first quarter of 2021 and begin final tests during the next quarter.
